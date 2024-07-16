@@ -11,7 +11,7 @@ I'm a versatile developer who thrives on challenges and loves bringing ideas to 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background-color: white; padding: 10px; border-radius: 10px;">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="margin: 5px;"> <img src="https://dl3.pushbulletusercontent.com/dZxagChWcfghVfFFX3MhxIOIBxK0EQG4/image.png" alt="flutter" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;"> <img src="https://dl3.pushbulletusercontent.com/Y7cMvXduh5zSP5RaWNnMgF0NkMaRUdB7/image.png" alt="react" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;"> <img src="https://dl3.pushbulletusercontent.com/wq02UnTHIQGVJWTsaK3KlzrKVX9QLNxq/image.png" alt="nextjs" width="" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin: 5px;"> <img src="https://dl3.pushbulletusercontent.com/GBFyNmeid4mD7Z2IAeDc0npjNMtVwJ5c/image.png" alt="express" width="" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 5px;"> <img src="https://dl3.pushbulletusercontent.com/jVcfF4mJbEYhJ4rOSK3LJ5wOqAVLdET7/image.png" alt="python" width="" height="40"/> </a>
